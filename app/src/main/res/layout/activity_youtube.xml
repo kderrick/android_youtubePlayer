@@ -8,6 +8,7 @@
 
     <com.google.android.youtube.player.YouTubePlayerView
         android:layout_width="match_parent"
+        android:id="@+id/youtubePlayer"
         android:layout_height="match_parent"
         android:background="@android:color/white">
         </com.google.android.youtube.player.YouTubePlayerView>
